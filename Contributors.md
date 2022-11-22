@@ -543,4 +543,5 @@
 - [Patil 2104](https://github.com/patil2104)
 - [HiTShiroya](https://github.com/HiTShiroya)
 - [Supriadi](https://github.com/obocloud)
+- [Laith Kamal](https://github.com/1ai7h)
 <!-- prettier-ignore-end -->
